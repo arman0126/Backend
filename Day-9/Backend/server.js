@@ -5,7 +5,7 @@ const connectToDB = require("./src/config/database")
 connectToDB()
 
 
-
+console.log("server started")
 
 
 
